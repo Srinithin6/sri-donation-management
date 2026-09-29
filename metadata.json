@@ -1,0 +1,11 @@
+{
+  "name": "SmartShare Donation Hub",
+  "description": "Smart donor-to-NGO matching platform featuring real-time camera-based AI item detection, demand registry, vector similarity matching, packaging checklist generation, and donation pipeline tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
